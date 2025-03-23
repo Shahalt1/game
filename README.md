@@ -1,7 +1,7 @@
 # 3D Game with Babylon.js
 
 A simple 3D game created with Babylon.js featuring physics, player controls, and obstacles.
-
+### Play game :  https://shahalt1.github.io/game/
 ## Features
 
 - 3D scene with ground, walls, and various obstacles
