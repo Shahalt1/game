@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Game variables
     let scene, camera, player;
-    let playerSpeed = 0.5;
+    let playerSpeed = 2.5;
     let playerJumpForce = 10;
     let keysPressed = {};
     let playerOnGround = false;
